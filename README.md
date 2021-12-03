@@ -7,7 +7,7 @@ tests a developed custom stack
 
 developed on Visual Studio Code
 
-## to run code
+## commands
 commands on Visual Studio Code to create this project
 
 * dotnet new sln -o dotnet-stacktest-xunit
